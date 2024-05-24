@@ -1,0 +1,1 @@
+python train_bi-encoder_margin-mse.py --model_name distilbert-base-uncased
